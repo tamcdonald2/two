@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  decription: MyString
+  emai: MyString
+  payment: MyString
+
+two:
+  decription: MyString
+  emai: MyString
+  payment: MyString
